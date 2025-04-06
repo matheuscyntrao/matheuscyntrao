@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cyntrao/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheuscyntrao)
+[![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://www.matheuscyntrao.com.br/)
+
 
 **Resumo Profissional**
 

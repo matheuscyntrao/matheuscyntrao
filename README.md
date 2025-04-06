@@ -9,7 +9,7 @@ Engenheiro de Software em Teste Sênior com ampla experiência em qualidade de s
 
 ## 💼 Experiência Profissional
 
-* **Foursys (CVP - Caixa Vida e Previdência) - Analista de Testes Automatizados III** (Novembro de 2024 - Presente)
+* **Foursys (CVP - Caixa Vida e Previdência) - Analista de Testes Automatizados III** (Novembro de 2024 - Março de 2025)
     * [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/) [![RestAssured](https://img.shields.io/badge/RestAssured-0077B5?style=for-the-badge&logo=apache-maven&logoColor=white)](https://rest-assured.io/) [![Selenium](https://img.shields.io/badge/Selenium-4DB33D?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![Report Portal](https://img.shields.io/badge/Report_Portal-000000?style=for-the-badge&logo=reportportal&logoColor=white)](https://reportportal.io/) [![Selenium Grid](https://img.shields.io/badge/Selenium_Grid-4DB33D?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/documentation/grid/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![JMeter](https://img.shields.io/badge/JMeter-D73A30?style=for-the-badge&logo=apache-jmeter&logoColor=white)](https://jmeter.apache.org/) [![Gatling](https://img.shields.io/badge/Gatling-000000?style=for-the-badge&logo=gatling&logoColor=white)](https://gatling.io/)
 
 

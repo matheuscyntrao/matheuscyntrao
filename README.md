@@ -38,10 +38,9 @@ Engenheiro de Software em Teste Sênior com ampla experiência em qualidade de s
    
 * **SoftDesign – Analista de Qualidade Pleno** (Janeiro de 2019 – Julho de 2019)
     * [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/) [![Selenium](https://img.shields.io/badge/Selenium-4DB33D?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) [![RestAssured](https://img.shields.io/badge/RestAssured-0077B5?style=for-the-badge&logo=apache-maven&logoColor=white)](https://rest-assured.io/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
- 
-* E antes disso tudo, fui dev durante 6 anos xD~
-
 
 * **DBServer – Desenvolvedor de Automação Pleno** (Junho de 2017 – Janeiro de 2018)
     * [![Selenium](https://img.shields.io/badge/Selenium-4DB33D?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) [![Cucumber](https://img.shields.io/badge/Cucumber-23D160?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
 
+
+* E antes disso tudo, fui dev durante 6 anos xD~

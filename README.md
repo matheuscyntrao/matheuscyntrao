@@ -76,21 +76,7 @@ Engenheiro de Software em Teste Sênior com ampla experiência em qualidade de s
     * Automação de testes com Selenium, Cucumber e Java.
     * Gestão de DevOps do time de automação com Jenkins, Docker e Kubernetes.
     * Apresentações sobre automação para clientes (Renner, Sicredi e Boticário).
-
-## 📚 Educação
-
-* **Estácio de Sá** - Engenharia de Software (2024 - Cursando)
-* **PUCRS** - Bacharelado em Engenharia de Software (2015-2018, Incompleto)
-* **I. E. Dr Solon Tavares** - Técnico em Análise e Desenvolvimento de Sistemas (2012-2014)
-* **SENACRS** - Técnico em Web Design (2012)
-* **Escolas e Faculdades QI** - Graduação em Análise e Desenvolvimento de Sistemas (2011)
-
-## 🏅 Certificações e Cursos
-
-* ISTQB - Certificação em Testes de Software
-* Alura - Docker, Kubernetes, Java, Testes, Git, Linux, Métodos Ágeis, UX, LGPD
-* Target Trust - PHP Avançado, Zend Framework, Metodologias Ágeis
-* Sisnema Informática - Programming with C# with Visual Studio
+    * 
 
 ## 🛠️ Habilidades Técnicas
 
@@ -106,10 +92,6 @@ Engenheiro de Software em Teste Sênior com ampla experiência em qualidade de s
 
 * Português: Nativo
 * Inglês: Avançado (B2)
-
-## ➕ Atividades Adicionais
-
-* Professor de Informática voluntário em escolas públicas.
 * Monitor de Programação Java na PUCRS.
 * Linkedin Top Voice em Garantia de Qualidade de Software.
 * Prêmio Melhor Instrumentista - SESI Descobrindo Talentos 2008.
